@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Температурний Спостерігач</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="button_cancel">Відбій</string>
+    <string name="button_save">Зберігти</string>
+    <string name="menu_show_graph">Відобразити Графік</string>
+    <string name="menu_show_input_dialog">Додати Показники</string>
+    <string name="note_input_notes">Нотатки (не обов\'язкові):</string>
+    <string name="note_input_temperature">Введіть температуру:</string>
+    <string name="note_temperature">Температура</string>
+
+    <string-array name="languages">
+        <item>Виберіть мову</item>
+        <item>Англійська</item>
+        <item>Рідна</item>
+    </string-array>
+    <string name="records">записів</string>
+    <string name="table_consist">"В таблиці є "</string>
+    <string name="cancelled">Скасовано</string>
+    <string name="error_cannt_insert">Помилка. Неможливо додати запис.</string>
+    <string name="new_data_inserted">"Нові показники додані до: "</string>
+    <string name="to_record">" запису."</string>
+    <string name="selected_lang">Ви обрали Рідну Солов\'їну!</string>
+    <string name="saved_locale">uk</string>
+
+</resources>
