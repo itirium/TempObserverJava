@@ -57,7 +57,7 @@ public class GraphActivity extends AppCompatActivity {
                 null,
                 null,
                 null,
-                null);
+                TempContract.TempEntry.COLUMN_DATE);
 
 
         try {

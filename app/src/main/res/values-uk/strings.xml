@@ -23,5 +23,6 @@
     <string name="to_record">" запису."</string>
     <string name="selected_lang">Ви обрали Рідну Солов\'їну!</string>
     <string name="saved_locale">uk</string>
+    <string name="note_input_date">Оберіть дату:</string>
 
 </resources>
